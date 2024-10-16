@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir .751
+mkdir rwxr-x--x my_dir
