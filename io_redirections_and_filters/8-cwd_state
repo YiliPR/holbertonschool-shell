@@ -1,2 +1,2 @@
 #!/bin/bash
-cat ls_cwq_content
+ls -la > ls_cws_content
