@@ -1,3 +1,3 @@
-Title: shell, init files, variables and expansions
+Title: SHell, init files, variables and expansions
 
-Description: practicing init files, variables and expansions in a shell.
+Description: practicing init files, variables and expansions
